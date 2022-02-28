@@ -87,8 +87,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=salauddin-ayub&show_icons=true&hide_border=true&theme=radical%22%20width=%2245%%22%20align=%22right%22>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ayub&theme=radical%22%20width=%2245%%22>
+<img  src="https://github-readme-stats.vercel.app/api?username=salauddin-ayub&show_icons=true&hide_border=true&theme=radical%22%20width=%2245%%22%20align=%22right%22" width="45%" align="right">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin-ayub&theme=radical%22%20width=%2245%%22" width="45%">
 
 <br /> 
 
