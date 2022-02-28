@@ -1,18 +1,4 @@
-### Hi there, I am Md Ayub (Frontend Developer) 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...JavaScript
-- 🌱 I’m currently learning ...Node js
-- 👯 I’m looking to collaborate on ...MERN Stack
-- 🤔 I’m looking for help with ... Node js
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Linkedin] (https://www.linkedin.com/in/salauddin--ayub/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://saasitive.com/images/tech_stack.png)
 
 <h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
