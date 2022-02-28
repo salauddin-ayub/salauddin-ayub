@@ -1,4 +1,4 @@
-![]("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137046598/original/7b42001b43cc9a1a871cb5f4476cb4c2605b432e/full-stack-developer-react-js-node-js-python.jpeg" width="50px")
+![](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137046598/original/7b42001b43cc9a1a871cb5f4476cb4c2605b432e/full-stack-developer-react-js-node-js-python.jpeg)
 
 <h1 align="center"> Hello, I'm Md Ayub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
