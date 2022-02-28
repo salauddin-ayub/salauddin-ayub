@@ -1,4 +1,4 @@
-![](https://static.codingforentrepreneurs.com/media/projects/capture-emails-django-and-reactjs/images/share/Email_Cap-Django_-_React.jpg)
+![](https://mobilunity.com/wp-content/uploads/2017/06/redux-react-developer-resume-1200-x-628.png)
 
 <h1 align="center"> Hello, I'm Md Ayub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
