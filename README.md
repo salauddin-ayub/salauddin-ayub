@@ -1,4 +1,4 @@
-![](https://saasitive.com/images/tech_stack.png)
+![](https://static.codingforentrepreneurs.com/media/projects/capture-emails-django-and-reactjs/images/share/Email_Cap-Django_-_React.jpg)
 
 <h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
