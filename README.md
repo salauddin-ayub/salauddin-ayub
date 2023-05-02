@@ -86,7 +86,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <br /> 
 
 ## 🏆 Github Status
-![salauddin-ayub's github stats](https://github-readme-stats.vercel.app/api?username=salauddin-ayub&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
+![salauddin-ayub's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=salauddin-ayub&count_private=true&show_icons=true&theme=radical&title_color=8C37E1&icon_color=BA5A31&text_color=FFD700&bg_color=151515)
+
 
 <br /> 
 
